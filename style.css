@@ -1,0 +1,122 @@
+body{
+	margin:0 0 0 0;
+}
+.tt1{
+	height: 180px;
+	width: 100%	;
+	background: rgb(16,221,151);
+	background: linear-gradient(90deg, rgba(16,221,151,1) 0%, rgba(26,9,195,1) 50%, rgba(206,5,221,1) 100%);
+	float:left;
+	text-align: center;
+	color: white;
+}
+.tt2{
+	height: 110px;
+	width: 100%	;
+	background: rgb(16,221,151);
+	background: linear-gradient(90deg, rgba(16,221,151,1) 0%, rgba(26,9,195,1) 50%, rgba(206,5,221,1) 100%);
+	float:left;
+	color: white;
+}
+.tt3{
+	height: 60px;
+	width:50%;
+	background: rgb(16,221,151);
+	background: linear-gradient(90deg, rgba(16,221,151,1) 0%, rgba(26,9,195,1) 100%);
+	float:left;
+	color: white;
+}
+.tt4{
+	height: 60px;
+	width:50%;
+	background: rgb(26,9,195);
+	background: linear-gradient(90deg, rgba(26,9,195,1) 0%, rgba(206,5,221,1) 100%);
+	float:left;
+	color: white;
+}
+.tt5{
+	height: 430px;
+	width: 50%;
+	background: rgb(26,9,195);
+	background: linear-gradient(0deg, rgba(26,9,195,1) 0%, rgba(16,221,151,1) 100%);
+	float:left;
+	color: white;
+}
+.tt6{
+	height: 430px;
+	width:50%;
+	background: rgb(26,9,195);
+	background: linear-gradient(0deg, rgba(26,9,195,1) 0%, rgba(16,221,151,1) 100%);
+	float:left;
+	color: white;
+	background-color: #808080;
+	float:left;
+}
+.tt7{
+	height: 130px;
+	width:50%;
+	background: rgb(206,5,221);
+	background: linear-gradient(0deg, rgba(206,5,221,1) 0%, rgba(26,9,195,1) 100%);
+	float:left;
+	color: white;
+}
+.tt8{
+	height: 130px;
+	width:50%;
+	background: rgb(206,5,221);
+	background: linear-gradient(0deg, rgba(206,5,221,1) 0%, rgba(26,9,195,1) 100%);
+	float:left;
+	color: white;
+}
+.tt9{
+	height: 60px;
+	width: 100%	;
+	background: rgb(16,221,151);
+	background: linear-gradient(90deg, rgba(16,221,151,1) 0%, rgba(26,9,195,1) 50%, rgba(206,5,221,1) 100%);
+	float:left;
+	color: white;
+}
+ul{
+	list-style-type: none;
+	margin:0;
+	padding:0;
+}
+li{
+	display:inline;
+}
+li{
+	float:left;
+}
+a{
+	display:block;
+	color: white;
+	width: 620px;
+	height: 50px;
+	background: rgb(16,221,151);
+	background: linear-gradient(90deg, rgba(16,221,151,1) 0%, rgba(26,9,195,1) 50%, rgba(206,5,221,1) 100%);
+}
+a:hover,a:active{
+	color: yellow;
+}
+.ss{
+	margin: 10px 10px 10px 0;
+	float:left;
+	border:2px groove black;
+	text-align: center;
+}
+a.button {
+  display: inline-block;
+  color: #fff;
+  padding: 12px;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 1;
+  font-weight: 100;
+}
+.order{
+	height: 100%;
+	width: 100%;
+	background: rgb(16,221,151);
+	background: linear-gradient(90deg, rgba(16,221,151,1) 0%, rgba(26,9,195,1) 50%, rgba(206,5,221,1) 100%);
+}
